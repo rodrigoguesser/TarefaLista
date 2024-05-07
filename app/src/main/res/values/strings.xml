@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compromissos</string>
+    <string name="tarefa_list">Lista de Tarefas</string>
+    <string name="insert_new_tarefa">Insira novo compromisso</string>
+    <string name="insert_tarefa">Insira uma nova tarefa</string>
+    <string name="confirm">Confirma</string>
+    <string name="edit_tarefa">Editar Tarefa</string>
+</resources>
